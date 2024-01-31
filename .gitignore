@@ -1,0 +1,13 @@
+.terraform*
+
+*.json
+
+terraform*
+
+.env
+
+__pycache__
+__pycache__/*
+
+result
+Scytale-exercise
